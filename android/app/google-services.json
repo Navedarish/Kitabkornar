@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226734306295",
+    "project_id": "kitaabkorner-5de30",
+    "storage_bucket": "kitaabkorner-5de30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226734306295:android:50555384283801d8d534f2",
+        "android_client_info": {
+          "package_name": "com.mycompany.kitaabkorner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcE-b7Zp9-OzM58qNaQUGcVfl8rGbwGTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
